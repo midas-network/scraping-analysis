@@ -1,6 +1,8 @@
 # TODO
 * push
 * clean up notebook
+* go to larger corpus
+* characterize different kinds of files. and resourdes
 * Filter out Tableaux and other files
 * Filter out tokens that aren't terribly helpful.
     * d7  - matches subset of file name but not clear where it comes out in tokens
@@ -28,8 +30,8 @@
      *20
     * 2022
   
-* make notes of patterns that we have pulled out.
-* go to larger corpus
+* make notes of file name patterns that we have pulled out.
+
 * work on nnmf
 
 # DONE
